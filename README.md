@@ -1,6 +1,6 @@
-## Java Bagrut Solutions
+## Java Solutions
 
-This repository contains my solved exercises from the official Computer Science Bagrut exams.
+This repository contains my solved exercises from the official Computer Science Bagrut exams and my little Java own Projects.
 All code is written in Java by me and demonstrates knowledge of:
 
 * OOP (Object-Oriented Programming)
@@ -17,7 +17,7 @@ These tasks were solved as part of preparation for the CS exam and also include 
 * bagrut-2021** — MyString implementation  
 * exam-suggested** — Real exam (PDF + solved question)  
 * mivhan-03-10** — Practice test with multiple Java classes  
-
+*TicTacToes - Practice how to Build game and Double Array comunication
 Each folder contains:
 * Original source code
 * Clean project structure ready for review
