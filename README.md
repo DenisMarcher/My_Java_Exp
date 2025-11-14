@@ -15,8 +15,7 @@ These tasks were solved as part of preparation for the CS exam and also include 
 * bagrut-2018** — Airport / OOP task  
 * bagrut-2019** — Arrays, logic, objects  
 * bagrut-2021** — MyString implementation  
-* exam-suggested** — Real exam (PDF + solved question)  
-* mivhan-03-10** — Practice test with multiple Java classes  
+* exam-suggested** — Real exam (PDF + solved question)   
 *TicTacToes - Practice how to Build game and Double Array comunication
 Each folder contains:
 * Original source code
